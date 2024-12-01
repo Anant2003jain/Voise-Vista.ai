@@ -1,0 +1,10 @@
+os
+json
+whisper
+moviepy
+streamlit
+azure-cognitiveservices-speech
+openai
+python-dotenv
+librosa
+numpy
