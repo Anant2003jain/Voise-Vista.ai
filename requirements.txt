@@ -1,5 +1,3 @@
-os
-json
 whisper
 moviepy
 streamlit
