@@ -63,12 +63,12 @@ Voise Vista.ai is an innovative application that leverages the power of Artifici
 6. **Run the app:**
 
    ```bash
-   streamlit run app.py
+   python -m streamlit run VoiseVistaAI.py
    ```
 
 ## Screenshots 📸
 
-**(Include screenshots of your application interface here)**
+![Image](image.png)
 
 ## Technologies Used 💻
 
