@@ -1,3 +1,5 @@
+#python -m streamlit run VoiseVistaAI.py
+
 import os
 import json
 import whisper
@@ -14,12 +16,12 @@ import numpy as np
 
 load_dotenv()
 
-# Azure 
+# Azure     
 sub_key = os.getenv('AZURE_SPEECH_KEY')
 az_oai_endpoint = os.getenv('AZURE_OPENAI_ENDPOINT')
 az_oai_api_key =  os.getenv('AZURE_OPENAI_API_KEY') 
 az_oai_version =  os.getenv('AZURE_OPENAI_API_VERSION')
-az_oai_model = 'gpt35'
+az_oai_model = 'gpt-4o'
 
 # Azure OpenAI
 client = AzureOpenAI(
