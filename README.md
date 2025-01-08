@@ -67,8 +67,32 @@ Voise Vista.ai is an innovative application that leverages the power of Artifici
    ```
 
 ## Screenshots 📸
+1. **Home Page**
 
-![Image](image.png)
+![HomePage](https://github.com/user-attachments/assets/6d82c11e-36e6-4dec-a2b8-cc789c375186)
+
+2. **Select Target Language and Generate Transcript**
+
+![SelectVideo_Lang_Generate](https://github.com/user-attachments/assets/71fb76c2-c706-4b23-a118-8eba4a43b6a9)
+
+3. **Edit Text and Gender (Optional)**
+
+![Edit_SaveTranscript](https://github.com/user-attachments/assets/87a03e00-76ea-4f34-86a0-8ac937a11b3b)
+
+4. **Start Translation**
+   - This Process might take some time
+
+![StartTranslation](https://github.com/user-attachments/assets/f2934b1b-b5df-468f-ae7f-3617747a9af7)
+
+5. **View and Download Translated Video**
+
+![OutputVideo](https://github.com/user-attachments/assets/6ca2d51f-9164-4801-8e2f-58788535896b)
+
+6. **Review Transcripts**
+
+![Original_translatedTranscript](https://github.com/user-attachments/assets/9a7bc1db-4765-4a42-80b6-3bf3eb5202ba)
+
+
 
 ## Technologies Used 💻
 
